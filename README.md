@@ -1,0 +1,1 @@
+https://android.googlesource.com/platform/ndk/+/master/docs/BuildSystemMaintainers.md
